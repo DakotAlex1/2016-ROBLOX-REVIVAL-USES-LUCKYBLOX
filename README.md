@@ -1,4 +1,42 @@
 # 2016-ROBLOX-REVIVAL-USES-LUCKYBLOX
-this is a 2016 roblox revival using luckyblox
-how to us make sure your client is selected as 2016L the other clients like 2019M and 2018E are required inside the folders they both have 1 file if you delete it luckyblox will not run idk why but just do not delete that all other game file client contents have been removed also go to host select a map after you selected a map click on host some maps do not work idk why those maps won't work only a few work and if you want other to play with you click on start php server and then give them you're luckyblox ip and port then the other people type that in their client to join you i have not tested this because no one has been around playing this and no one wants to test so i will not be suprised if someone else cannot join and then after you host the map by going to host selecting a map/rblx file then clicking on host change you're username to whatever you want then you can join the game also the advanced user settings will not work also if you want to play by yourself you do not have to start the php server the php server is optional for anyone else for who wants to play with you. also you will need net 4.6.1 framework and visual studio redistributable c++ 2012. also giving credit to creator of luckyblox witch is atpeid. and lastly to run luckyblox extract files open the folder and you will see luckyblox launcher.exe open it and that is how to open luckyblox you can also create a desktop shortcut. also on the luckyblox antiviruses false reporting it says The launcher is protected by Obfuscator tool so that hackers can't steal the source code of my launcher and use it for their own purposes (DON'T TRY TO BYPASS, YOU WON'T SUCCEED, THE LAUNCHER IS PROTECTED BY A VERY POWERFUL OBFUSCATOR) do not worry i did not reverse engineer or did anything to the files or folders all i did was remove files that where not for 2016 roblox and then when it was good i published this thank you for using my project.
-Also this will be updated to v2.0 because they are releasing luckyblox 2.0
+
+An unofficial project made by me for running a 2016-style Roblox revival locally.
+
+## Features
+
+- 2016 client experience
+- Local single-player hosting
+- Optional multiplayer hosting
+- Selectable maps
+- Custom usernames
+
+## Requirements
+
+- Windows/Linux OR MacOS requires wine
+- .NET Framework 4.6.1
+- Visual C++ 2012 Redistributable
+
+## Installation
+
+1. Download the latest release.
+2. Extract the ZIP.
+3. Open `LuckyBlox Launcher.exe`.
+4. Select the `2016L` client.
+5. Choose a map and click **Host**.
+
+## Multiplayer
+
+1. Start the PHP server.
+2. Share your server IP and port only with people you trust.
+3. Enter the address in the client.
+4. Have players connect.
+also this might not work because i have not tested this yet with someone else
+## Known issues
+
+- Some maps currently fail to load. (unfixable)
+- Multiplayer has not been thoroughly tested. (fixable)
+
+## Roadmap
+
+- [ ] Test multiplayer
+- [ ] Publish version 2.0
