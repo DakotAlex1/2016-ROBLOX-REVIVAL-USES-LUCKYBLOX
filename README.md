@@ -24,24 +24,23 @@ An unofficial project made by me for running 2016 Roblox revival locally.
 4. Select the `2016L` client.
 5. Choose a map and click **Host**.
 
-## Multiplayer
+## Multiplayer has been tested.
 
 1. Start the PHP server.
-2. Share your server IP and port only with people you trust.
-3. Enter the address in the client.
-4. Have players connect.
-also this might not work because i have not tested this yet with someone else
+2. Share your server IP and port and go to host and you will see port type that exact port in the connect settings in connect.
+3. then click on the green play button in connect section then you are in that server.
+
 ## Known issues
 
-- Some maps currently fail to load. (unfixable)
-- Multiplayer has not been thoroughly tested. (fixable)
+- Some maps currently fail to load.
+- Sometimes Multiplayer might get connection errors script failure errors or might load but in a different server by yourself.
 
 ## Roadmap
 
 - [ ] Test multiplayer
-- [ ] Publish version 2.0
+- [ ] Update when creator of luckyblox uploads luckyblox launcher 2
 
 ## Notes
 Note 1. Creator of luckyblox atpeid says his code is obfuscated and i did nothing to the code all i did was remove till it was good.
 
-Note 2. You might see 2019M and 2018E roblox clients they have nothing inside but if i remove one of the folders luckyblox stops working and idk why they have nothing inside them one of them has 1 file in it only 1 and it still needs those 2 folders and 1 file so if you find those folders and that 1 file do not delete them.
+Note 2. You might see 2019M and 2018E roblox clients they have nothing inside but if i remove one of the folders luckyblox stops working and i don't know why they have nothing inside them one of them has 1 file in it only 1 and it still needs those 2 folders and 1 file so if you find those folders and that 1 file do not delete them.
