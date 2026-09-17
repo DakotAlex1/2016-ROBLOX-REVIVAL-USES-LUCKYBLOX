@@ -1,6 +1,6 @@
 # 2016-ROBLOX-REVIVAL-USES-LUCKYBLOX
 
-An unofficial project made by me for running a 2016-style Roblox revival locally.
+An unofficial project made by me for running 2016 Roblox revival locally.
 
 ## Features
 
