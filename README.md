@@ -44,5 +44,4 @@ also this might not work because i have not tested this yet with someone else
 ## Notes
 Note 1. Creator of luckyblox atpeid says his code is obfuscated and i did nothing to the code all i did was remove till it was good.
 
-
 Note 2. You might see 2019M and 2018E roblox clients they have nothing inside but if i remove one of the folders luckyblox stops working and idk why they have nothing inside them one of them has 1 file in it only 1 and it still needs those 2 folders and 1 file so if you find those folders and that 1 file do not delete them.
